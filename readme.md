@@ -1,1 +1,2 @@
-https://maximafanasev.github.io/kekstagram
+npm i
+npm start
